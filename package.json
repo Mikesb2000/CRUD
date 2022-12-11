@@ -1,0 +1,24 @@
+{
+  "name": "practica-13",
+  "version": "1.0.0",
+  "description": "Practica 13 = CRUD-Completo-Template",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node src/app.js"
+  },
+  "keywords": [
+    "citas"
+  ],
+  "author": "Miguel Angel Gonzalez Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-myconnection": "^1.0.4",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
